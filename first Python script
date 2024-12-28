@@ -1,0 +1,11 @@
+# This is my first Python script
+
+# Print a simple message
+print("Hello, World!")
+
+# Perform a basic calculation
+result = 5 + 3
+print("The result of 5 + 3 is:", result)
+
+# Print a motivational message
+print("Congratulations on running your first Python script!")
